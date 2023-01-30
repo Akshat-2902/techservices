@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="404px" height="256px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 62.49 39.6"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ enable-background="new 0 0 512 512">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil2 {fill:#4D56B2}
+    .fil1 {fill:#7982ED}
+    .fil3 {fill:#BEC2D0}
+    .fil4 {fill:#DCE0EA}
+    .fil6 {fill:#E9ECF4}
+    .fil8 {fill:#ECB931}
+    .fil7 {fill:#F1CC30}
+    .fil5 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="62.49" height="39.6"/>
+  <g id="client-satisfaction.svg">
+   <g>
+    <g>
+     <g>
+      <g>
+       <g>
+        <g>
+         <g>
+          <circle class="fil1" cx="31.24" cy="19.8" r="17.39"/>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+    <path class="fil2" d="M48.64 19.8c0,-2.16 -0.4,-4.22 -1.11,-6.12l-4.89 -4.89 -22.66 8.15 6.4 6.4 -2.55 2.37 2.81 2.81 -5.5 1.65 6.69 6.69c1.1,0.22 2.24,0.33 3.41,0.33 9.61,0 17.4,-7.79 17.4,-17.39l0 0z"/>
+    <g>
+     <g>
+      <g>
+       <circle class="fil3" cx="37.22" cy="24.17" r="2.11"/>
+      </g>
+      <g>
+       <path class="fil3" d="M37.22 26.87c-2.02,0 -3.7,1.41 -4.13,3.3l8.25 0c-0.42,-1.89 -2.11,-3.3 -4.12,-3.3l0 0z"/>
+      </g>
+     </g>
+     <g>
+      <g>
+       <circle class="fil4" cx="25.27" cy="24.17" r="2.11"/>
+      </g>
+      <g>
+       <path class="fil4" d="M25.27 26.87c-2.02,0 -3.7,1.41 -4.13,3.3l8.26 0c-0.43,-1.89 -2.11,-3.3 -4.13,-3.3z"/>
+      </g>
+     </g>
+    </g>
+    <g>
+     <g>
+      <circle class="fil5" cx="31.24" cy="23.89" r="2.86"/>
+     </g>
+     <g>
+      <path class="fil6" d="M31.24 21.03l0 5.72c1.58,0 2.86,-1.28 2.86,-2.86 0,-1.58 -1.28,-2.86 -2.86,-2.86z"/>
+     </g>
+     <g>
+      <path class="fil5" d="M31.24 27.55c-2.72,0 -5,1.91 -5.58,4.46l11.17 0c-0.58,-2.55 -2.86,-4.46 -5.59,-4.46z"/>
+     </g>
+     <g>
+      <path class="fil6" d="M31.24 27.55l0 4.46 5.59 0c-0.58,-2.55 -2.86,-4.46 -5.59,-4.46z"/>
+     </g>
+    </g>
+    <g>
+     <polygon class="fil7" points="42.64,8.79 19.98,8.79 19.98,16.94 23.57,16.94 25.27,20.21 26.97,16.94 29.61,16.94 31.24,20.14 33.01,16.94 35.52,16.94 37.22,20.21 38.92,16.94 42.64,16.94 "/>
+    </g>
+    <g>
+     <polygon class="fil8" points="31.24,8.79 31.24,20.14 33.01,16.94 35.52,16.94 37.22,20.21 38.92,16.94 42.64,16.94 42.64,8.79 "/>
+    </g>
+    <g>
+     <polygon class="fil5" points="31.24,9.76 32.19,11.74 34.31,12.05 32.77,13.59 33.14,15.76 31.24,14.73 29.35,15.76 29.71,13.59 28.18,12.05 30.3,11.74 "/>
+    </g>
+    <g>
+     <polygon class="fil6" points="34.31,12.05 32.19,11.74 31.24,9.76 31.24,14.73 33.14,15.76 32.77,13.59 "/>
+    </g>
+    <g>
+     <g>
+      <polygon class="fil6" points="38.44,9.76 39.39,11.74 41.51,12.05 39.97,13.59 40.34,15.76 38.44,14.73 36.55,15.76 36.91,13.59 35.38,12.05 37.5,11.74 "/>
+     </g>
+     <g>
+      <polygon class="fil5" points="24.04,9.76 24.99,11.74 27.1,12.05 25.57,13.59 25.94,15.76 24.04,14.73 22.15,15.76 22.51,13.59 20.98,12.05 23.1,11.74 "/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

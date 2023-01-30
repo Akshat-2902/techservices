@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="300px" height="180px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 16.57 9.94"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil6 {fill:#26BFA6}
+    .fil7 {fill:#293939}
+    .fil2 {fill:#384949}
+    .fil1 {fill:#4A696F}
+    .fil5 {fill:#57D9AD}
+    .fil4 {fill:#D9F2FF}
+    .fil3 {fill:#E6FFFF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="16.57" height="9.94"/>
+  <g id="fan.svg">
+   <polygon class="fil1" points="3.83,0.51 12.75,0.51 12.75,9.43 3.83,9.43 "/>
+   <path class="fil2" d="M8.29 0.51l4.46 0 0 8.92 -4.46 0 0 -8.92zm0 0z"/>
+   <path class="fil3" d="M8.29 1.57c-1.87,0 -3.4,1.53 -3.4,3.4 0,1.87 1.53,3.4 3.4,3.4 1.87,0 3.4,-1.53 3.4,-3.4 0,-1.87 -1.53,-3.4 -3.4,-3.4zm0 0z"/>
+   <path class="fil4" d="M11.69 4.97c0,1.87 -1.53,3.4 -3.4,3.4l0 -6.8c1.87,0 3.4,1.53 3.4,3.4l0 0zm0 0z"/>
+   <path class="fil5" d="M5.41 4.97c0,-0.86 0.71,-1.57 1.57,-1.57 0.62,0 1.18,0.37 1.43,0.93l-0.51 0.64 -2.49 0zm0 0z"/>
+   <path class="fil6" d="M9.59 6.54c-0.62,0 -1.17,-0.36 -1.43,-0.92l0.51 -0.65 2.49 0c0,0.87 -0.7,1.57 -1.57,1.57zm0 0z"/>
+   <path class="fil6" d="M8.29 4.59l0 -2.49c0.86,0 1.57,0.7 1.57,1.57 0,0.62 -0.37,1.18 -0.93,1.43l-0.64 -0.51zm0 0z"/>
+   <path class="fil5" d="M8.29 7.85c-0.87,0 -1.57,-0.71 -1.57,-1.57 0,-0.62 0.36,-1.18 0.92,-1.43l0.65 0.51 0 2.49zm0 0z"/>
+   <path class="fil7" d="M11.16 1.57l0.53 0 0 0.53 -0.53 0 0 -0.53zm0 0z"/>
+   <path class="fil2" d="M4.89 1.57l0.52 0 0 0.53 -0.52 0 0 -0.53zm0 0z"/>
+   <path class="fil7" d="M11.16 7.85l0.53 0 0 0.52 -0.53 0 0 -0.52zm0 0z"/>
+   <path class="fil2" d="M4.89 7.85l0.52 0 0 0.52 -0.52 0 0 -0.52zm0 0z"/>
+   <path class="fil1" d="M8.29 4.19c-0.44,0 -0.79,0.35 -0.79,0.78 0,0.44 0.35,0.79 0.79,0.79 0.43,0 0.78,-0.35 0.78,-0.79 0,-0.43 -0.35,-0.78 -0.78,-0.78zm0 0z"/>
+   <path class="fil2" d="M9.07 4.97c0,0.44 -0.35,0.79 -0.78,0.79l0 -1.57c0.43,0 0.78,0.35 0.78,0.78zm0 0z"/>
+  </g>
+ </g>
+</svg>
